@@ -30,7 +30,7 @@ A full-featured Kanban board with integrated [Model Context Protocol (MCP)](http
 
 | Layer       | Technology                  |
 | ----------- | --------------------------- |
-| Framework   | Next.js 15 (App Router)     |
+| Framework   | Next.js 16 (App Router)     |
 | Language    | TypeScript                  |
 | Database    | SQLite + Drizzle ORM        |
 | UI          | shadcn/ui + Tailwind CSS v4 |
