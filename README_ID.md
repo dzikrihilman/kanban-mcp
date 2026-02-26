@@ -2,6 +2,10 @@
 
 Papan Kanban lengkap dengan server [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) terintegrasi, memungkinkan AI coding agent mengelola proyek dan task secara programatis.
 
+![Dashboard](./docs/screenshots/dashboard.png)
+
+![Kanban Board](./docs/screenshots/kanban-board.png)
+
 ## Daftar Isi
 
 - [Tech Stack](#tech-stack)

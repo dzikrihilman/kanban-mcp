@@ -4,6 +4,10 @@
 
 A full-featured Kanban board with integrated [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server, allowing AI coding agents to manage projects and tasks programmatically.
 
+![Dashboard](./docs/screenshots/dashboard.png)
+
+![Kanban Board](./docs/screenshots/kanban-board.png)
+
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
